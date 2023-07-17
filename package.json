@@ -1,23 +1,22 @@
 {
     "name": "react-native-lewin-aliyunplayer",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "description": "阿里云视频播放器，react native版本",
     "main": "main.js",
     "nativePackage": true,
-    "scripts": {
-    },
+    "scripts": {},
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/LewinJun/react-native-aliyunplayer.git"
+        "type": "git",
+        "url": "git+https://github.com/LewinJun/react-native-aliyunplayer.git"
     },
     "keywords": [
-      "video",
-      "react-native-video",
-      "视频播放",
-      "react",
-      "阿里云视频",
-      "mp4",
-      "native"
+        "video",
+        "react-native-video",
+        "视频播放",
+        "react",
+        "阿里云视频",
+        "mp4",
+        "native"
     ],
     "author": "lewin",
     "license": "ISC",
@@ -26,39 +25,39 @@
         "react": "17.0.1"
     },
     "devDependencies": {
-      "@babel/core": "^7.14.8",
-      "@babel/runtime": "^7.14.8",
-      "@react-native-community/eslint-config": "^3.0.0",
-      "babel-jest": "^27.0.6",
-      "eslint": "^7.32.0",
-      "jest": "^27.0.6",
-      "metro-react-native-babel-preset": "^0.66.2",
-      "react-test-renderer": "17.0.1",
-      "@react-native-community/eslint-plugin": "^1.1.0",
-      "@types/lodash": "^4.14.155",
-      "@types/react": "^17.0.3",
-      "@types/react-native": "^0.64.12",
-      "react": "17.0.3",
-      "react-native": "0.64.12",
-      "@typescript-eslint/eslint-plugin": "^4.17.0",
-      "@typescript-eslint/parser": "^4.17.0",
-      "eslint-plugin-typescript": "^0.14.0",
-      "typescript": "^4.2.3"
+        "@babel/core": "^7.14.8",
+        "@babel/runtime": "^7.14.8",
+        "@react-native-community/eslint-config": "^3.0.0",
+        "babel-jest": "^27.0.6",
+        "eslint": "^7.32.0",
+        "jest": "^27.0.6",
+        "metro-react-native-babel-preset": "^0.66.2",
+        "react-test-renderer": "17.0.1",
+        "@react-native-community/eslint-plugin": "^1.1.0",
+        "@types/lodash": "^4.14.155",
+        "@types/react": "^17.0.3",
+        "@types/react-native": "^0.64.12",
+        "react": "17.0.3",
+        "react-native": "0.64.12",
+        "@typescript-eslint/eslint-plugin": "^4.17.0",
+        "@typescript-eslint/parser": "^4.17.0",
+        "eslint-plugin-typescript": "^0.14.0",
+        "typescript": "^4.2.3"
     },
     "files": [
-      "index.tsx",
-      "main.js",
-      "ios/",
-      "README.md",
-      "android/src",
-      "android/build.gradle",
-      "react-native-aliyunplayer.podspec"
+        "index.tsx",
+        "main.js",
+        "ios/",
+        "README.md",
+        "android/src",
+        "android/build.gradle",
+        "react-native-aliyunplayer.podspec"
     ],
     "bugs": {
-      "url": "https://github.com/LewinJun/react-native-aliyunplayer/issues"
+        "url": "https://github.com/LewinJun/react-native-aliyunplayer/issues"
     },
     "publishConfig": {
-      "registry": "https://registry.npmjs.org/"
+        "registry": "https://registry.npmjs.org/"
     },
     "homepage": "https://github.com/LewinJun/react-native-aliyunplayer#readme"
-  }
+}
