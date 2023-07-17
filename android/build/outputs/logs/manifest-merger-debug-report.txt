@@ -1,0 +1,49 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml:8:22-72
+uses-sdk
+INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml
+INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml
+INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml
+INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml
+		ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml
+		ADDED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/role/Desktop/办公/思念星空/思念星空App/node_modules/react-native-lewin-aliyunplayer/android/src/main/AndroidManifest.xml
