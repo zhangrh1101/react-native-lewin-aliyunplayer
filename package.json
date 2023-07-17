@@ -1,5 +1,5 @@
 {
-    "name": "react-native-lewin-aliyunplayer",
+    "name": "@zhangrh1101/react-native-lewin-aliyunplayer",
     "version": "1.0.10",
     "description": "阿里云视频播放器，react native版本",
     "main": "main.js",
